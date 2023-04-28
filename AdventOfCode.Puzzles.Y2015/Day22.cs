@@ -1,6 +1,8 @@
 ﻿namespace AdventOfCode.Puzzles.Y2015;
 
-public class Day01 : Day
+// https://adventofcode.com/2015/day/22
+
+public class Day22 : Day
 {
     public override Output Part1()
     {
